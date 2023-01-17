@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on a Masters Degree in Electrical Engineering
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning Python
 - 💬 Ask me about my pets
 - 📫 How to reach me: nicole.m.dileo@gmail.com
 - 😄 Pronouns: she/her
